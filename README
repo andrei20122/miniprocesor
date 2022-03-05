@@ -1,0 +1,21 @@
+Leahu Morie Robert Andrei 321CB
+
+task1
+->for this task I thought of using a mask with the help of the variable m.
+->with this mask I do not change the value received as input
+-> the first 3 bits have a value of 7, and then the remaining 29 shifts to the left
+-> with the help of the variable N we realize which is the number of instructions
+-> I used the command you requested with scanf
+-> in the repetitive structure (for) I took 2 bits each to decode
+each operator separately
+-> in size I went on the same principle as in N
+-> I took the most insignificant 4 bits
+
+task2
+-> the beginning part is the same as in task1
+-> and part of solving this task I used the logic from the previous task
+-> with the help of the received formula I found out the number of operations and then I applied them later
+-> in the first forum I read the values that had to be set,
+there among the operators to be read
+-> with the help of the second forum I did the default calculation
+-> for this task I used 2 vectors (vec_operator and vec_operand)
